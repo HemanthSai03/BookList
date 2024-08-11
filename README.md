@@ -18,9 +18,12 @@ Books App(Android Assessment) is an Android application that fetches a list of b
 NOTE: Please read the RUN section before opening an issue.
  
 ## Demo
- 
-![screenshot](Screenshot51.png)
-![screenshot](Screenshot53.png)
+
+ ![Screenshot (53)](https://github.com/user-attachments/assets/9ce44ce6-b29b-4a01-8019-69a4b705aa84)
+
+![Screenshot (51)](https://github.com/user-attachments/assets/7137f13f-c215-4a49-89d7-b5a020898de2)
+
+
  
  
 The app displays a list of books with details such as title, publisher, ISBN, and year. You can view the list of books fetched from the API and stored locally in the database.
