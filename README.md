@@ -33,7 +33,7 @@ To run this application, you need to set up the necessary environment and depend
  
 1. **Clone the repository**:
    ```bash
-   git clone https:https://github.com/HemanthSai03/BookApp
+   git clone https:https://github.com/HemanthSai03/BookList
  
 2.Open the project in Android Studio.
  
